@@ -1,4 +1,4 @@
-## Stefan Todorovic
-### Веб програмер 👨‍💻
+## Debski Patrick
+### Webentwickler 👨‍💻
 
-Искусни веб програмер са 4 године практичног искуства, вешт у креирању динамичких веб апликација. Стручњак у коришћењу најсавременијих технологија као што су Реацт, Нект.јс, Таилвинд за испоруку софистицираних решења усмерених на корисника. Течно говорим енглески и немачки језик и промовишем комуникацију у различитим окружењима. Страствени за континуирано учење и раст у области веб развоја која се стално развија.
+Erfahrener Webentwickler mit 4 Jahren praktischer Erfahrung, spezialisiert auf die Erstellung dynamischer Webanwendungen. Experte im Einsatz modernster Technologien wie React, Next.js und Tailwind, um benutzerorientierte, anspruchsvolle Lösungen zu liefern. Fließend in Englisch und Deutsch, fördere ich die Kommunikation in verschiedenen Umgebungen. Leidenschaftlich für kontinuierliches Lernen und Wachstum in der sich ständig weiterentwickelnden Webentwicklungsbranche.
